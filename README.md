@@ -11,3 +11,4 @@
 # Hopefully this works
 # Forget to add title to commit
 # Exploring Issue Formatting
+# Looks like fomratting is strict
